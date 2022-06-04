@@ -99,6 +99,7 @@ streamlit run app.py
 ```
 
 ## 3 Kết quả
+
 ![](./assets/demo.gif)
 
 
